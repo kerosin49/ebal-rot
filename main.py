@@ -8,4 +8,4 @@ c = data["characters"]
 print(c[0]["name"])
 
 for personaj in c:
-    print(f"Name - {personaj ["name"]}")
+    print(f"Name - {personaj["name"]}")
